@@ -9,8 +9,8 @@ ut does not take advantage of the of the object oriented nature of C++.
 - Basic example of creating a class in a Flight Simulator Game and instantiating an object from that class - i.e. creating an aircraft class and creating an aircraft object for use in a game. This example is in Java.
 
 ## FlightSimulator.cpp
-As FlightSimulator.Java but this time created in C++. 
-- adg
+- As FlightSimulator.Java but this time created in C++. 
+
 
 ## FlightSimulator2.cpp
 
