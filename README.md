@@ -1,4 +1,4 @@
-# C++-Examples-for-FSc-Class-
+# C++ Examples for FSc Class 
 
 ## ProceduralCalc.cpp
 - This is an exaple of how we can take the kind of procedurual code we have created in Python and transalte it into C++. It shows the changes in syntax, 
