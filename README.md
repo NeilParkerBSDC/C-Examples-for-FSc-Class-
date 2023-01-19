@@ -4,14 +4,14 @@
 - This is an exaple of how we can take the kind of procedurual code we have created in Python and transalte it into C++. It shows the changes in syntax, 
 ut does not take advantage of the of the object oriented nature of C++.
 
-## FlightSim.Java
+## FlightSimulator.Java
 
-- asdg
+- Basic example of creating a class in a Flight Simulator Game and instantiating an object from that class - i.e. creating an aircraft class and creating an aircraft object for use in a game. This example is in Java.
 
-## FlightSim.cpp
-
+## FlightSimulator.cpp
+As FlightSimulator.Java but this time created in C++. 
 - adg
 
-## FlightSim2.cpp
+## FlightSimulator2.cpp
 
-- sdfh
+- A more developed version of the FlightSimulator.cpp cide showing how different objects can interact with each other.
